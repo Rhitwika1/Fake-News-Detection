@@ -3,7 +3,7 @@
 Detect whether a  news article is **real or fake** using a supervised machine learning model.
 ---
 
-## 📌 Overview
+## Overview
 
 With the rise of misinformation, being able to detect fake news has become a critical task. This project:
 - Uses a Kaggle dataset containing labeled fake and real news articles. The dataset is given in zipped form just extract the dataset and use it.
@@ -43,12 +43,12 @@ Also a modified dataset can be used where:
 ## Visualizations
 
 The project includes the following visualizations:
-- 🔍 Distribution of Fake vs Real News  
-- 📈 Top 20 Most Frequent Words  
+-  Distribution of Fake vs Real News  
+-  Top 20 Most Frequent Words  
 
 ---
 
-## 🧠 Model Workflow
+##  Model Workflow
 
 1. **Data Loading**
 2. **Handling Missing Values**
